@@ -1,4 +1,4 @@
-﻿# Multimodal Test Case Generator
+﻿# Multimodal Image Test Case Generator
 
 This tool generates detailed testing instructions for any digital product feature, based on uploaded screenshots and optional text context. It leverages a multimodal large language model (LLM) to generate comprehensive, step-by-step test cases, helping QA teams and developers streamline their testing processes.
 
